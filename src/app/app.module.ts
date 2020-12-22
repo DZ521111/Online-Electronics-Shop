@@ -22,6 +22,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
   declarations: [
     HomeComponent
   ],
+  // All the imports of modules
   imports: [
     BrowserModule,
     AppRoutingModule,
