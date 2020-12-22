@@ -1,0 +1,27 @@
+<mat-card class = "sc-checkout">
+  <mat-card-content>
+    <mat-list role = "list">
+      <mat-list-item role = "listItem">
+        <span> Items ({{ cartItemsCount | async }}) </span>
+        <span class = "spacer"></span>
+        <span> {{ cartSubTotal | async}} </span>
+      </mat-list-item>
+      <mat-list-item role = "listItem">
+        <span> Shipping to 395006 </span>
+        <span class = "spacer"></span>
+        <span> {{ shippingCost | async | currency}} </span>
+      </mat-list-item>
+      <mat-list-item role = "listItem">
+        <span> Estimated-Tax </span>
+        <span class = "spacer"></span>
+        <span> {{ estimatedCost | async | currency}} </span>
+      </mat-list-item>
+      <mat-divider></mat-divider>
+      <mat-list-item role = "listItem">
+        <span class = "mat-title"> Total Order </span>
+        <span class = "spacer"></span>
+        <span class = "mat-title"> {{ orderTotal | async | currency}} </span>
+      </mat-list-item>
+    </mat-list>
+  </mat-card-content>
+</mat-card>

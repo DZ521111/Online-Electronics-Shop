@@ -1,0 +1,22 @@
+  a {
+      margin: 5px;
+  }
+  .active-link-nav {
+      background-color: crimson;
+  }
+  .logo {
+      background-image: url('../../../assets/logo.png');
+      vertical-align: middle;
+      height: 50px;
+      width: 100px;
+      background-size: contain;
+      background-repeat: no-repeat;
+  }
+  .mat-icon {
+      vertical-align: middle;
+      margin: 0 5px;
+  }
+
+  .header-spacer {
+    flex: 1;
+  }

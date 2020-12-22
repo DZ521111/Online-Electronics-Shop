@@ -1,0 +1,25 @@
+<div mat-dialog-container>
+  <h1>{{ cartItem.quantity }} Item/s added in cart </h1>
+  <div mat-dialog-content>
+    <div class = "zs-dialog-row">
+      <img mat-card-image src = "{{ cartItem.imgUrl }}" alt = "{{ cartItem.name }}"
+      class = "product-listing-image">
+      <span class = "mat-captions">
+        {{ cartItem.name }}  {{ cartItem.itemTotal | currency }}
+      </span>
+    </div>
+
+    <div class = "zs-dialog-row">
+      <button mat-raised-button [tabIndex] = "0" color = "accent" (click) = "continueShopping()">
+        Continue Shopping
+      </button>
+    </div>
+
+    <div class = "zs-dialog-row">
+      <button mat-raised-button [tabIndex] = "0" color = "primary" (click) = "goToCart()">
+        Go-To Cart
+      </button>
+    </div>
+
+  </div>
+</div>

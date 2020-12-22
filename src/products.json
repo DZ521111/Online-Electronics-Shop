@@ -1,0 +1,72 @@
+[{
+        "imgUrl": "https://m.media-amazon.com/images/I/81MkiDFq80L._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Mac_Book_Pro",
+        "price": 109998.99,
+        "discription": "Good One!",
+        "id": 1
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/71YRSVXhgQL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Mac_Book_Air",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 2
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/61GfchY6UyL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Dell_Alien",
+        "price": 207798.98,
+        "discription": "Good One!",
+        "id": 3
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/610o0lI8IFL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Dell_XPS_7390",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 4
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/61PXjYVtmqL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Lenovo Ideapad S145",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 5
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/71B-xrUA4sL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "AVITA PURA NS14A6INU541-SRGYB",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 6
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/51wXWFRw5ZL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "AVITA LIBER V14 NS14A8INF561-MB",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 7
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/71jx9axEk-L._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Saco Keyboard Protector",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 8
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/810RI8O1jJL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "27-inch iMac with Retina 5K Display",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 9
+    },
+    {
+        "imgUrl": "https://m.media-amazon.com/images/I/71oLRJOfvgL._AC_UY327_FMwebp_QL65_.jpg",
+        "name": "Logitech K480 Wireless Multi-Device Keyboard",
+        "price": 106998.98,
+        "discription": "Good One!",
+        "id": 10
+    }
+
+]
